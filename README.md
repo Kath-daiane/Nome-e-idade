@@ -1,1 +1,1 @@
-Programa que exibe a mensagem Hallo World
+Programa que exibe nome e idade de uma pessoa.
